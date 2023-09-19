@@ -19,7 +19,7 @@ printNumbers(5, 10);
 
 /* background feris cvla yovel 2.5 wamshi */
  let currentIndex = 0;
-const colors = ["black", "white"];
+const colors = ["red", "green", "blue"];
 setInterval(changeBackgroundColor, 2500, colors);
 
 function changeBackgroundColor(colors) {
